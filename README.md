@@ -1,5 +1,5 @@
-🌾 M Village
-M Village is a simple, responsive village-themed website created using only HTML and CSS. It showcases important aspects of a rural community and promotes the idea of digital accessibility for villages.
+🌾 My Village
+My Village is a simple, responsive village-themed website created using only HTML and CSS. It showcases important aspects of a rural community and promotes the idea of digital accessibility for villages.
 
 💡 Project Overview
 This project is designed to represent a model village portal that includes basic information, services, and cultural highlights. It's a static website aimed at enhancing web design skills while also delivering a meaningful user experience.
@@ -38,17 +38,18 @@ This is a frontend-only project with no backend functionality. It serves as a st
 
 🙌 Author
 Kajal Mishra
-📧 [YourEmail@example.com] (optional)
-🔗 [Portfolio Link / LinkedIn / GitHub Profile]
+📧 [kajalmishraa345@gmail.com] (optional)
+🔗 
 
 
 Screenshorts
 
-[Capture](https://gith![Capture](https://github.com/user-attachments/assets/93fcf378-d0ec-4b9d-b59d-b3b4ada7a34e)
-ub.com/user-attachments/assets/f8a741d8-3f89-469b-904e-af1867dfd55e)
+
+![Capture](https://github.com/user-attachments/assets/02a3b83a-f126-4a54-a34b-3f734204870d)
 
 
-![Capture 2](https://github.com/user-attachments/assets/934b2e16-ad15-46ed-ad9e-7edb924062e0)
+![Capture 2](https://github.com/user-attachments/assets/9ecb87fb-e241-4fe7-bb5d-94e63a4b0bed)
+
 
 
 ![3](https://github.com/user-attachments/assets/6b884302-7a99-4cad-9edc-40d771434bca)
