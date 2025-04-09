@@ -30,7 +30,7 @@ Clone the repository:
 bash
 Copy!
 Edit
-git clone https://github.com/yourusername/m-village.git
+git clone https://github.com/KajalMishra636/HTML-CSS-webpage-designing-repo/tree/main/webpage%201
 Open the index.html file in your browser.
 
 📌 Note
