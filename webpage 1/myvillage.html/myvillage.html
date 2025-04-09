@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>My Village - Bihar</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f3f3f3;
+      line-height: 1.6;
+    }
+
+    header {
+      background-color: #faa984;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+
+    header img {
+      width: 95%;
+      max-height: 350px;
+      object-fit: cover;
+      margin: 20px auto 0;
+      border-radius: 20px;
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+      transition: transform 0.4s ease;
+      display: block;
+    }
+
+    header img:hover {
+      transform: scale(1.03);
+    }
+
+    .intro {
+      text-align: center;
+      padding: 40px 20px;
+      background-color: #e8f5e9;
+    }
+
+    .intro h2 {
+      font-size: 28px;
+      color: #2e7d32;
+      margin-bottom: 10px;
+    }
+
+    .intro p {
+      max-width: 800px;
+      margin: auto;
+      font-size: 18px;
+    }
+
+    .cards {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 20px;
+      padding: 40px 20px;
+    }
+
+    .card {
+      background-color: white;
+      border-radius: 15px;
+      box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+      width: 300px;
+      padding: 20px;
+      transition: transform 0.3s ease;
+      text-align: center;
+    }
+
+    .card:hover {
+      transform: translateY(-6px);
+    }
+
+    .card img {
+      width: 100%;
+      height: 180px;
+      border-radius: 12px;
+      object-fit: cover;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+      transition: transform 0.4s ease, filter 0.3s ease;
+    }
+
+    .card img:hover {
+      transform: scale(1.05);
+      filter: brightness(1.1);
+    }
+
+    .card h3 {
+      margin: 15px 0 10px;
+      color: #388e3c;
+    }
+
+    footer {
+      background-color: #263238;
+      color: white;
+      text-align: center;
+      padding: 30px 20px;
+      margin-top: 40px;
+    }
+
+    .social-icons {
+      margin: 15px 0;
+    }
+
+    .social-icons a {
+      color: white;
+      margin: 0 15px;
+      font-size: 24px;
+      transition: color 0.3s;
+      text-decoration: none;
+    }
+
+    .social-icons a:hover {
+      color: #4caf50;
+    }
+
+    .footer-note {
+      margin-top: 10px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <h1>Welcome to My Village - Bihar</h1>
+    <img src="./image/4.png" alt="Bihar Village Image" />
+  </header>
+
+  <!-- Introduction Section -->
+  <section class="intro">
+    <h2>About Bihar</h2>
+    <p>
+      Bihar, a state in eastern India, is rich in culture, history, and agriculture. It's the land where Buddhism was born, and it's home to many ancient temples, universities, and traditions. From lush green fields to the holy Ganges River, Bihar’s villages are full of life, culture, and simplicity.
+    </p>
+  </section>
+
+  <!-- Card Section -->
+  <section class="cards">r
+    <div class="card">
+      <img src="./image/village.png" alt="Agriculture">
+      <h3>Agriculture</h3>
+      <p>Bihar is known for its fertile land. Villagers grow rice, wheat, maize, and sugarcane with traditional farming methods.</p>
+    </div>
+
+    <div class="card">
+      <img src="./image/6.png" alt="Culture">
+      <h3>Culture & Festivals</h3>
+      <p>Chhath Puja, Holi, and Diwali are celebrated with devotion. Folk songs and dances add color to village life.</p>
+    </div>
+
+    <div class="card">
+      <img src="./image/heritage.png" alt="Bodh Gaya">
+      <h3>Historic Places</h3>
+      <p>Places like Bodh Gaya and Nalanda reflect Bihar's deep spiritual and educational history.</p>
+    </div>
+
+    <div class="card">
+      <img src="./image/river.png" alt="River">
+      <h3>Nature & Rivers</h3>
+      <p>Rivers like the Ganga and Koshi pass through villages, providing water, beauty, and livelihood.</p>
+    </div>
+  </section>
+
+  <!-- Footer with Social Media -->
+  <footer>
+    <p>Connect with us on social media</p>
+    <div class="social-icons">
+      <a href="https://www.facebook.com/"><i class="fab fa-facebook-f" title="Facebook"></i></a>
+      <a href="https://www.instagram.com/accounts/login/?hl=en"><i class="fab fa-instagram" title="Instagram"></i></a>
+      <a href="https://x.com/?lang=en"><i class="fab fa-twitter" title="Twitter"></i></a>
+      <a href="https://www.youtube.com/"><i class="fab fa-youtube" title="YouTube"></i></a>
+    </div>
+
+</body>
+</html>
