@@ -47,9 +47,7 @@ Navigate through the website to explore all categories.
 
 📷 Preview (Optional)
 Include screenshots or a preview GIF here to show what the site looks like.
-## Screenshot
-
-![App Screenshot]()
+## Screenshots
 
 👩‍🍳 Created by
 Kajal Mishra
